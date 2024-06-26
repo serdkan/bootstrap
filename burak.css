@@ -1,0 +1,465 @@
+/* HEİGHT/WİDHT */
+
+.yukseklik-1-genislik-1{
+    height: 100px;
+    width: 100px;
+}
+
+.yukseklik-2-genislik-3{
+    height: 200px;
+    width: 200px;
+}
+
+.yukseklik-3-genislik-3{
+    height: 300px;
+    width: 300px;
+}
+
+.yukseklik-4-genislik-4{
+    height: 400px;
+    width: 400px;
+}
+
+.yukseklik-5-genislik-5{
+    height: 500px;
+    width: 500px;
+}
+
+
+.height-1{
+    height: 600px;
+}
+
+.height-2{
+    height: 500px;
+}
+
+.height-3{
+    height: 400px;
+}
+
+.height-4{
+    height: 300px;
+}
+
+.height-5{
+    height: 200px;
+}
+
+.height-6{
+    height: 100px;
+}
+
+.height-7{
+    height: 50px;
+}
+
+/* WİDHT */
+
+.widht-1{
+    width: 600px;
+}
+
+.widht-2{
+    width: 500px;
+}
+
+.widht-3{
+    width: 400px;
+}
+
+.widht-4{
+    width: 300px;
+}
+
+.widht-5{
+    width: 200px;
+}
+
+.widht-6{
+    width: 100px;
+}
+
+.widht-7{
+    width: 50px;
+}
+
+/* BACKGROUND-COLOR */
+
+.bg-color-red{
+    background-color: red;
+}
+
+.bg-color-yellow{
+    background-color: yellow;
+}
+
+.bg-color-green{
+    background-color: green;
+}
+
+.bg-color-aqua{
+    background-color: aqua;
+}
+
+.bg-color-black{
+    background-color: black;
+}
+
+.bg-color-white{
+    background-color: white;
+}
+
+/* COLOR */
+
+.clr-1{
+    color: red;
+}
+
+.clr-2{
+    color: green;
+}
+
+.clr-3{
+    color: yellow;
+}
+
+.clr-4{
+    color: aqua;
+}
+
+.clr-5{
+    color: coral;
+}
+
+.clr-6{
+    color: blue;
+}
+
+.clr-7{
+    color: fuchsia;
+}
+
+.clr-8{
+    color: deepskyblue;
+}
+
+.clr-9{
+    color: beige;
+}
+
+.clr-10{
+    color: gold;
+}
+
+/* TİTLE */
+
+h1{
+    font-size: 80px;
+    color: white;
+}
+
+h2{
+    font-size: 70px;
+    color: white;
+}
+
+h3{
+    font-size: 60px;
+    color: white;
+}
+
+h4{
+    font-size: 50px;
+    color: white;
+}
+
+h5{
+    font-size: 40px;
+    color: white;
+}
+
+h6{
+    font-size: 30px;
+    color: white;
+}
+
+/* MARGİN LEFT */
+
+.mrl-1{
+    margin-left: 600px;
+}
+
+.mrl-2{
+    margin-left: 500px;
+}
+
+.mrl-3{
+    margin-left: 400px;
+}
+
+.mrl-4{
+    margin-left: 300px;
+}
+
+.mrl-5{
+    margin-left: 200px;
+}
+
+.mrl-6{
+    margin-left: 100px;
+}
+
+.mrl-7{
+    margin-left: 50px;
+}
+
+.mrl-8{
+    margin-left: 0px;
+}
+
+/* MARGİN TOP */
+
+.mrt-1{
+    margin-top: 500px;
+}
+
+.mrt-2{
+    margin-top: 400px;
+}
+
+.mrt-3{
+    margin-top: 300px;
+}
+
+.mrt-4{
+    margin-top: 200px;
+}
+
+.mrt-5{
+    margin-top: 100px;
+}
+
+.mrt-6{
+    margin-top: 50px;
+}
+
+.mrt-7{
+    margin-top: 0px;
+}
+
+/* MARGİN RİGHT */
+
+.mrr-1{
+    margin-right: 600px;
+}
+
+.mrr-2{
+    margin-right: 500px;
+}
+
+.mrr-3{
+    margin-right: 400px;
+}
+
+.mrr-4{
+    margin-right: 300px;
+}
+
+.mrr-5{
+    margin-right: 200px;
+}
+
+.mrr-6{
+    margin-right: 100px;
+}
+
+.mrr-7{
+    margin-right: 50px;
+}
+
+.mrr-8{
+    margin-right: 0px;
+}
+
+/* MARGİN BOTTOM */
+
+.mrb-1{
+    margin-bottom: 600px;
+}
+
+.mrb-2{
+    margin-bottom: 500px;
+}
+
+.mrb-3{
+    margin-bottom: 400px;
+}
+
+.mrb-4{
+    margin-bottom: 300px;
+}
+
+.mrb-5{
+    margin-bottom: 200px;
+}
+
+.mrb-6{
+    margin-bottom: 100px;
+}
+
+.mrb-7{
+    margin-bottom: 50px;
+}
+
+.mrb-8{
+    margin-bottom: 0px;
+}
+
+/* CURSOR MODEL */
+
+.cursor-1{
+    cursor: pointer;
+}
+
+.cursor-2{
+    cursor: alias;
+}
+
+.cursor-3{
+    cursor: auto;
+}
+
+.cursor-4{
+    cursor: none;
+}
+
+.cursor-5{
+    cursor: cell;
+}
+
+/* BORDER */
+
+.brd-1{
+    border: 2px solid black;
+}
+
+.brd-2{
+    border: 4px solid black;
+}
+
+.brd-3{
+    border: 6px solid black; 
+}
+
+/* BORDER RADİUS */
+
+.brd-radius-1{
+    border-radius: 5px;
+}
+
+.brd-radius-2{
+    border-radius: 10px;
+}
+
+.brd-radius-3{
+    border-radius: 15px;
+}
+
+.brd-radius-4{
+    border-radius: 20px;
+}
+
+.brd-radius-5{
+    border-radius:30px;
+}
+
+.brd-radius-6{
+    border-radius: 100%;
+}
+
+/* BUTTON WİDHT/HEİGHT */
+
+.button-ol-1{
+    width: 300px;
+    height: 300px;
+}
+
+.button-ol-2{
+    width: 200px;
+    height: 200px;
+}
+
+.button-ol-3{
+    width: 100px;
+    height: 100px;
+}
+
+/* BUTTON COLOR */
+
+.button-red{
+    background-color: red;
+}
+
+.button-yellow{
+    background-color: yellow;
+}
+
+.button-black{
+    background-color: black;
+}
+
+.button-green{
+    background-color: green;
+}
+
+.button-aqua{
+    background-color: aqua;
+}
+
+.button-blue{
+    background-color: blue;
+}
+
+/* ANİMATİON */
+
+.anmt-1{
+    animation: show1 5s;
+}
+
+.anmt-2{
+    animation: show2 4s;
+}
+
+.anmt-3{
+    animation: show3 3s;
+}
+
+.anmt-4{
+    animation: show4 2s;
+}
+
+
+@keyframes show1{
+    0%{
+        transform: rotate(360deg);
+    }
+} 
+
+@keyframes show2{
+    0%{
+        transform: rotateX(360deg);
+    }
+} 
+
+@keyframes show3{
+    0%{
+        transform: rotateY(360deg);
+    }
+} 
+
+@keyframes show4{
+    0%{
+        transform: rotateZ(360deg);
+    }
+}

@@ -1,0 +1,254 @@
+.mt-1{margin-top: 100px;}
+.mt-2{margin-top: 200px;}
+.mt-3{margin-top: 300px;}
+.mt-4{margin-top: 400px;}
+.mt-5{margin-top: 500px;}
+.mt-6{margin-top: 600px;}
+.mt-7{margin-top: 700px;}
+.mt-8{margin-top: 800px;}
+.mt-9{margin-top: 900px;}
+
+.ml-1{margin-left: 100px;}
+.ml-2{margin-left: 200px;}
+.ml-3{margin-left: 300px;}
+.ml-4{margin-left: 400px;}
+.ml-5{margin-left: 500px;}
+.ml-6{margin-left: 600px;}
+.ml-7{margin-left: 700px;}
+.ml-8{margin-left: 800px;}
+.ml-9{margin-left: 900px;}
+
+.mr-1{margin-right: 100px;}
+.mr-2{margin-right: 200px;}
+.mr-3{margin-right: 300px;}
+.mr-4{margin-right: 400px;}
+.mr-5{margin-right: 500px;}
+.mr-6{margin-right: 600px;}
+.mr-7{margin-right: 700px;}
+.mr-8{margin-right: 800px;}
+.mr-9{margin-right: 900px;}
+
+.mb-1{margin-bottom: 100px;}
+.mb-2{margin-bottom: 200px;}
+.mb-3{margin-bottom: 300px;}
+.mb-4{margin-bottom: 400px;}
+.mb-5{margin-bottom: 500px;}
+.mb-6{margin-bottom: 600px;}
+.mb-7{margin-bottom: 700px;}
+.mb-8{margin-bottom: 800px;}
+.mb-9{margin-bottom: 900px;}
+
+.fs-10{font-size: 10px;}
+.fs-20{font-size: 20px;}
+.fs-30{font-size: 30px;}
+.fs-40{font-size: 40px;}
+.fs-50{font-size: 50px;}
+.fs-60{font-size: 60px;}
+.fs-70{font-size: 70px;}
+.fs-80{font-size: 80px;}
+.fs-90{font-size: 90px;}
+.fs-1{font-size: 100px;}
+.fs-2{font-size: 200px;}
+.fs-3{font-size: 300px;}
+.fs-4{font-size: 400px;}
+.fs-5{font-size: 500px;}
+.fs-6{font-size: 600px;}
+.fs-7{font-size: 700px;}
+.fs-8{font-size: 800px;}
+.fs-9{font-size: 900px;}
+
+.dp-b{display: block;}
+.dp-c{display: contents;}
+.dp-f{display: flex;}
+.dp-fr{display: flow-root;}
+.dp-g{display: grid;}
+.dp-i{display: inline;}
+.dp-ib{display: inline-block;}
+.dp-if{display: inline-flex;}
+.dp-it{display: inline-table;}
+.dp-li{display: list-item;}
+.dp-n{display: none;}
+.dp-r{display: ruby;}
+.dp-rb{display: ruby-base;}
+.dp-rbc{display: ruby-base-container;}
+.dp-ri{display: run-in;}
+.dp-t{display: table;}
+.dp-tc{display: table-caption;}
+.dp-tcell{display: table-cell;}
+.dp-tcolumn{display: table-column;}
+.dp-tcg{display: table-column-group;}
+.dp-tfg{display: table-footer-group;}
+.dp-thg{display: table-header-group;}
+.dp-tr{display: table-row;}
+.dp-trg{display: table-row-group;}
+
+.bc-aliceblue{background-color: aliceblue}
+.bc-antiquewhite{background-color: antiquewhite;}
+.bc-aqua{background-color: aqua;}
+.bc-aquamarine{background-color: aquamarine;}
+.bc-azure{background-color: azure;}
+.bc-beige{background-color: beige;}
+.bc-bisque{background-color: bisque;}
+.bc-black{background-color: black;}
+.bc-blanchedalmond{background-color: blanchedalmond;}
+.bc-blue{background-color: blue;}
+.bc-blueviolet{background-color: blueviolet;}
+.bc-brown{background-color: brown;}
+.bc-burlywood{background-color: burlywood;}
+.bc-cadetblue{background-color: cadetblue;}
+.bc-chartreuse{background-color: chartreuse;}
+.bc-chocolate{background-color: chocolate;}
+.bc-coral{background-color: coral;}
+.bc-cornflowerblue{background-color: cornflowerblue;}
+.bc-cornsilk{background-color: cornsilk;}
+.bc-crimson{background-color: crimson;}
+.bc-cyan{background-color: cyan;}
+.bc-darkblue{background-color: darkblue;}
+.bc-darkcyan{background-color: darkcyan;}
+.bc-darkgoldenrod{background-color: darkgoldenrod;}
+.bc-darkgray{background-color: darkgray;}
+.bc-darkgreen{background-color: darkgreen;}
+.bc-darkgrey{background-color: darkgrey;}
+.bc-darkkhaki{background-color: darkkhaki;}
+.bc-darkmagenta{background-color: darkmagenta;}
+.bc-darkolivegreen{background-color: darkolivegreen;}
+.bc-darkorange{background-color: darkorange;}
+.bc-darkorchid{background-color: darkorchid;}
+.bc-darkred{background-color: darkred;}
+.bc-darksalmon{background-color: darksalmon;}
+.bc-darkseagreen{background-color: darkseagreen;}
+.bc-darkslateblue{background-color: darkslateblue;}
+.bc-darkslategray{background-color: darkslategray;}
+.bc-darkslategrey{background-color: darkslategrey;}
+.bc-darkturqouise{background-color:darkturquoise ;}
+.bc-darkvoilet{background-color: darkviolet;}
+.bc-deeppink{background-color: deeppink;}
+.bc-deepskyblue{background-color: deepskyblue;}
+.bc-dimgray{background-color: dimgray;}
+.bc-dimgrey{background-color: dimgrey;}
+.bc-orange{background-color: orange;}
+.bc-orangered{background-color: orangered;}
+.bc-red{background-color: red;}
+.bc-purple{background-color: purple;}
+.bc-yellow{background-color: yellow;}
+.bc-yellowgreen{background-color: yellowgreen;}
+.bc-white{background-color: white;}
+.bc-green{background-color: green;}
+.bc-greenyellow{background-color: greenyellow;}
+
+.c-red{color: red;}
+.c-blue{color: blue;}
+.c-orange{color: orange;}
+.c-pink{color: pink;}
+.c-purple{color: purple;}
+.c-yellow{color: yellow;}
+.c-green{color: green;}
+.c-voilet{color: violet;}
+.c-brown{color: brown;}
+.c-cyan{color: cyan;}
+.c-aqua{color: aqua;}
+.c-black{color: black;}
+.c-white{color: white;}
+
+.fm-1{font-family: 'Courier New', Courier, monospace;}
+.fm-2{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.fm-3{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.fm-4{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+.fm-5{font-family: 'Times New Roman', Times, serif;}
+.fm-6{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
+.fm-7{font-family: Arial, Helvetica, sans-serif;}
+.fm-8{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+.fm-9{font-family: Georgia, 'Times New Roman', Times, serif;}
+.fm-10{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.fm-11{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.fm-12{font-family: cursive}
+.fm-13{font-family: fantasy;}
+.fm-14{font-family: monospace;}
+.fm-15{font-family: sans-serif;}
+.fm-16{font-family: serif}
+.fm-17{font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+.fm-18{font-family: inherit;}
+.fm-19{font-family: initial;}
+.fm-20{font-family: unset;}
+
+.h-10{height: 10px;}
+.h-20{height: 20px;}
+.h-30{height: 30px;}
+.h-40{height: 40px;}
+.h-50{height: 50px;}
+.h-60{height: 60px;}
+.h-70{height: 70px;}
+.h-80{height: 80px;}
+.h-90{height: 90px;}
+.h-1{height: 100px;}
+.h-2{height: 200px;}
+.h-3{height: 300px;}
+.h-4{height: 400px;}
+.h-5{height: 500px;}
+.h-6{height: 600px;}
+.h-7{height: 700px;}
+.h-8{height: 800px;}
+.h-9{height: 900px;}
+
+.w-10{width: 10px;}
+.w-20{width: 20px;}
+.w-30{width: 30px;}
+.w-40{width: 40px;}
+.w-50{width: 50px;}
+.w-60{width: 60px;}
+.w-70{width: 70px;}
+.w-80{width: 80px;}
+.w-90{width: 90px;}
+.w-1{width: 100px;}
+.w-2{width: 200px;}
+.w-3{width: 300px;}
+.w-4{width: 400px;}
+.w-5{width: 500px;}
+.w-6{width: 600px;}
+.w-7{width: 700px;}
+.w-8{width: 800px;}
+.w-9{width: 900px;}
+
+/* |İLK BUTON| */
+
+button{
+    font-size: 25px;
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: 1s;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    border-radius: 100%;
+    border-style: dashed;
+    border-color: white;
+}
+
+/* |İLK BUTON BİTİŞİ| */
+--------------------------
+/* |İKİNCİ BUTON| */
+
+button{
+    cursor: pointer;
+    border: 0;
+    color: #000;
+    padding: 18px 32px;
+    background: red;
+    border-radius: 6px;
+    font: 600 22px  'monsterrat';
+    box-shadow: 0 6px o red;
+    transition: .3s; 
+    }
+    button:active{
+        transform: translateY(5px);
+        box-shadow: 0 
+        3px 0 red;
+    }
+
+/* |İKİNCİ BUTON BİTİŞİ| */

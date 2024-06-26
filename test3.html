@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Progress Bar</title>
+        <link rel="stylesheet" href="boootstrap.css">
+        <style>
+        .container{
+            margin-left: 50px;
+            height: 15px;
+            width: 500px;
+            border-radius: 25px;
+            padding: 3px;   
+        }
+ 
+        .loading{
+            font-size: 10px;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin-left: 2px;
+            animation-name: load;
+            animation-duration: 22s;
+            animation-iteration-count: infinite;
+        }
+        @keyframes load{
+                from{
+                    margin-left: -15px;
+                }
+
+                to{
+                    margin-left: 450px;
+                }
+        }
+
+        .inner{
+            height: 14px;
+            border-radius: 25px;
+            animation-name:progress ;
+            animation-duration: 20s;
+            animation-iteration-count: infinite;
+        }
+        @keyframes progress {
+            from{
+                width: 0px;
+                background:linear-gradient(to right,red 35%,white 65%) ;
+            }
+            to{
+                width: 500px;
+                background:linear-gradient(to right,red 35%,white 65%) ;
+            }
+        }  
+    </style>
+    </head>
+
+    <body>
+        <center><div><b>Bootstrap</b></div></center>
+        <div class="container mt-2 bc-darkcyan">
+            <div class="inner">
+                <div class="loading text-color-blue">Loading...</div></div>
+        </div>
+        <div class="figure"></div>
+    </body>
+</html>
