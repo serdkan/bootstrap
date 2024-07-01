@@ -463,3 +463,8 @@ h6{
         transform: rotateZ(360deg);
     }
 }
+
+.fw-6{
+    font-weight: 600;
+    color: #fff;
+}
