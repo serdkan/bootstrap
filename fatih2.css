@@ -1,0 +1,7 @@
+.menucolor {
+    background-color: #fff;
+    color: #000;
+}
+.menucolor:hover{
+    color:#007aff;
+}
